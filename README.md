@@ -36,7 +36,7 @@ The project uses several AWS services, all of which fall under the AWS Free Tier
     - Click "Create repository".
     - Name your repository `wild-rides-site` (or similar) and click "Create".
     
-    **Screenshot: Create CodeCommit Repository**
+    **Screenshot**
     ![](https://github.com/Kishor-Bibin/uni_ride_AWS_web_application/blob/d3815351e1f14985f61f1c8f3e5240d92c2f93a4/Screenshots/AWS%20Codecommit%20Creation%20page%20.png)
     
 2. **Configure IAM Permissions:**
